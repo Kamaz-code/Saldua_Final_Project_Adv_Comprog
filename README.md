@@ -6,7 +6,7 @@ I. A Brief Project Overview
 
   The project's goal is to provide a seamless, engaging user experience, bridging entertainment and education through manga. It emphasizes accessibility, user-centric design, and efficient data management, aligning with global goals of quality education and reduced inequalities.
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 II. Explanation of How Python Concepts, Libraries, etc. were Applied
 
@@ -44,7 +44,7 @@ A notification system was integrated using database queries and message boxes to
 
 Separate workflows for regular users and admins are created to manage content and users, ensuring security and role-specific access.
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 III. Details of the Chosen SDG and Its Integration
 
@@ -67,7 +67,7 @@ Educational Integration:
 
 * Admins can curate content, ensuring the inclusion of comics with educational themes and reducing exposure to inappropriate material.
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 IV. Instructions for Running the Program
 
