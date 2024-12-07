@@ -42,3 +42,6 @@ A notification system was integrated using database queries and message boxes to
 7. Admin Privileges:
 
 Separate workflows for regular users and admins are created to manage content and users, ensuring security and role-specific access.
+
+
+
