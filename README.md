@@ -64,3 +64,37 @@ Community Building:
 Educational Integration:
 
 * Admins can curate content, ensuring the inclusion of comics with educational themes and reducing exposure to inappropriate material.
+
+
+IV. Instructions for Running the Program
+
+--- Prerequisites ---
+
+Ensure Python 3.7+ is installed on your system.
+
+Install the required libraries using the following command:
+pip install tk sqlite3
+
+
+--- Prepare the following resources ---
+A valid SQLite database file (user_data.db).
+An application logo image (smol_ina.png).
+
+
+--- Steps to Run the Program ---
+Place the project files and resources in the same directory.
+Run the script using the Python interpreter
+
+
+--- Upon launch ---
+
+
+Login Window: Enter a valid username and password to log in or register a new account.
+Main Page (User): Access features like adding comics, viewing your collection, and managing your profile.
+Admin Page: Manage users and comics with additional administrative controls.
+
+
+--- Note ---
+
+To test admin functionalities, ensure the account has admin privileges set in the database.
+The database schema can be initialized using the create_db() function in the code.
