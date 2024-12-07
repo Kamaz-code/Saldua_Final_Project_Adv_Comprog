@@ -44,4 +44,23 @@ A notification system was integrated using database queries and message boxes to
 Separate workflows for regular users and admins are created to manage content and users, ensuring security and role-specific access.
 
 
+III. Details of the Chosen SDG and Its Integration
 
+Sustainable Development Goal (SDG) 4: Quality Education
+
+
+  EduManga Hub aligns with SDG 4: Quality Education by leveraging the universal appeal of manga to promote literacy, creativity, and educational engagement. The platform provides an accessible space for users to explore stories that can inspire learning, while its admin features ensure the quality and relevance of content.
+
+Integration Details:
+Access to Diverse Content:
+
+* Users can contribute and access a wide variety of comics, encouraging the sharing of culturally diverse stories and educational themes.
+Enhanced Literacy and Creativity:
+
+* Comics provide a medium for storytelling that enhances reading skills and fosters imagination, especially for young users.
+Community Building:
+
+* The notification system and user interaction features promote collaboration and knowledge sharing within the community.
+Educational Integration:
+
+* Admins can curate content, ensuring the inclusion of comics with educational themes and reducing exposure to inappropriate material.
