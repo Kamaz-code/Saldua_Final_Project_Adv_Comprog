@@ -15,7 +15,7 @@ II. Explanation of How Python Concepts, Libraries, etc. were Applied
 The project uses the tkinter library for creating an intuitive and responsive user interface. Components like buttons, labels, entry widgets, and frames are utilized to enhance the user experience.
 
 
-2.Database Management:
+2. Database Management:
 
 sqlite3 is employed to store user data, comic details, and notifications in a relational database. The database facilitates seamless data retrieval and updates for features like adding comics, viewing user information, and managing notifications.
 
