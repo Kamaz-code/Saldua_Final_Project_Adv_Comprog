@@ -89,7 +89,11 @@ Run the script using the Python interpreter
 
 
 Login Window: Enter a valid username and password to log in or register a new account.
+
+
 Main Page (User): Access features like adding comics, viewing your collection, and managing your profile.
+
+
 Admin Page: Manage users and comics with additional administrative controls.
 
 
