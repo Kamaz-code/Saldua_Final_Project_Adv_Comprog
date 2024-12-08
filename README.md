@@ -20,41 +20,35 @@ Excluded features are external database integrations and social interactions lik
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-II. Explanation of How Python Concepts, Libraries, etc. were Applied
+II. Python Concepts and Libraries
 
-1. Graphical User Interface (GUI):
+1. Graphical User Interface (Tkinter):
 
-The project uses the tkinter library for creating an intuitive and responsive user interface. Components like buttons, labels, entry widgets, and frames are utilized to enhance the user experience.
+* Window Management:
+   Tk() initializes the main window for login, signup, and comic management.
+   Toplevel() creates additional windows like comic addition or notification displays.
 
+Widgets and Layouts:
+Label, Entry, Button, and PhotoImage ensure interactivity and visual appeal.
+Frames and grid layouts organize content for clarity.
 
-2. Database Management:
+Event Handling:
+Functions such as go_to_signup() enable smooth navigation between sections.
 
-sqlite3 is employed to store user data, comic details, and notifications in a relational database. The database facilitates seamless data retrieval and updates for features like adding comics, viewing user information, and managing notifications.
+Dialog Boxes:
+messagebox displays user alerts (e.g., success or error messages).
 
+Custom Styling:
+Fonts, colors, and center_window() ensure a consistent, user-focused experience.
 
-3. Modular Programming:
+Database Management (SQLite3):
 
-The project is structured into modular functions for various operations, such as user authentication, comic addition, and status updates. This modularity improves code readability, maintenance, and scalability.
-
-
-4. Error Handling and Validation:
-
-Input validation and exception handling are implemented to ensure robustness. For example, users are prompted for confirmation before deleting comics, and notifications handle acknowledgment status efficiently.
-
-
-5. Custom Functions:
-
-Functions like center_window() ensure dynamic window placement.
-
-
-6. Notifications:
-
-A notification system was integrated using database queries and message boxes to inform users about important updates, enhancing interactivity.
-
-
-7. Admin Privileges:
-
-Separate workflows for regular users and admins are created to manage content and users, ensuring security and role-specific access.
+Database Operations:
+sqlite3.connect() creates or connects to databases (user_data.db) for storing user, comic, and notification data.
+SQL Queries:
+Perform CRUD operations (Create, Read, Update, Delete) for efficient data management.
+Admin Functions:
+Allow actions like deleting comics and managing users, ensuring centralized oversight.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
