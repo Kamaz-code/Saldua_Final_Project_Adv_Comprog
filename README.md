@@ -25,6 +25,7 @@ Excluded features are external database integrations and social interactions lik
    - **Window Management:**
    
        `Tk()` initializes the main window for login, signup, and comic management.
+     
        `Toplevel()` creates additional windows like comic addition or notification displays.
    
    - **Widgets and Layouts:**
