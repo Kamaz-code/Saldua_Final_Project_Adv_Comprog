@@ -1,10 +1,22 @@
 # Saldua_Final_Project_Adv_Comprog
 
-I. A Brief Project Overview
+I. Project Overview
 
-  EduManga Hub is an innovative platform designed to provide a centralized hub for comic enthusiasts and educators to interact with commics in a digital environment. Users can add, view, search, and manage their comics while maintaining personal profiles and receiving relevant notifications. The application also supports admin functionalities to ensure smooth operation and content moderation.
+  The EduManga Hub is an innovative platform designed to centralize and streamline the management of manga content with an educational focus. It caters to manga enthusiasts and administrators by enabling features like personal comic collection tracking, status updates, and efficient content searches. Administrators benefit from tools for recommending and curating content, as well as overseeing user activities, all while promoting an interactive and structured ecosystem.
 
-   The project's goal is to provide a seamless, engaging user experience, bridging entertainment and education through comics. It emphasizes accessibility, user-centric design, and efficient data management, aligning with global goals of quality education and reduced inequalities.
+Key features include:
+
+User Management: Enables users to sign up, log in, and access personalized collections.
+
+Comic Management: Supports adding, updating, and searching for comics, with user-specific and admin-added entries accessible.
+
+Admin Tools: Allow recommendations and oversight of all user collections.
+
+Notification System: Alerts users about admin actions, such as removed comics.
+
+Search Functionality: Simplifies comic retrieval by title.
+
+Excluded features are external database integrations and social interactions like reviews or comments. The project follows SMART objectives, aiming for deployment by Q4 2024, with measurable success tied to achieving at least 100 comic additions and searches.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
