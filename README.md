@@ -53,14 +53,6 @@ Sustainable Development Goal (SDG) 4: Quality Education
 
   EduManga Hub aligns with SDG 4: Quality Education by leveraging the universal appeal of comics to promote literacy, creativity, and educational engagement. The platform provides an accessible space for users to explore stories that can inspire learning, while its admin features ensure the quality and relevance of content.
 
-* Users can contribute and access a wide variety of comics, encouraging the sharing of culturally diverse stories and educational themes.
-
-* Comics provide a medium for storytelling that enhances reading skills and fosters imagination, especially for young users.
-
-* The notification system and user interaction features promote collaboration and knowledge sharing within the community.
-
-* Admins can curate content, ensuring the inclusion of comics with educational themes and reducing exposure to inappropriate material.
-
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 IV. Instructions for Running the Program
