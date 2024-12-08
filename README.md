@@ -1,6 +1,6 @@
-# *I. Project Overview*
+# I. Project Overview
 
-  The EduManga Hub is an innovative platform designed to centralize and streamline the management of manga content with an educational focus. It caters to manga enthusiasts and administrators by enabling features like personal comic collection tracking, status updates, and efficient content searches. Administrators benefit from tools for recommending and curating content, as well as overseeing user activities, all while promoting an interactive and structured ecosystem.
+                                                                                                                                                                                            The EduManga Hub is an innovative platform designed to centralize and streamline the management of manga content with an educational focus. It caters to manga enthusiasts and administrators by enabling features like personal comic collection tracking, status updates, and efficient content searches. Administrators benefit from tools for recommending and curating content, as well as overseeing user activities, all while promoting an interactive and structured ecosystem.
 
 Key features include:
 
