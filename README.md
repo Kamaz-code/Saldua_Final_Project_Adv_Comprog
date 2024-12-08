@@ -1,4 +1,4 @@
-I. Project Overview
+# I. Project Overview
 
   The EduManga Hub is an innovative platform designed to centralize and streamline the management of manga content with an educational focus. It caters to manga enthusiasts and administrators by enabling features like personal comic collection tracking, status updates, and efficient content searches. Administrators benefit from tools for recommending and curating content, as well as overseeing user activities, all while promoting an interactive and structured ecosystem.
 
@@ -18,14 +18,13 @@ Excluded features are external database integrations and social interactions lik
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-II. Python Concepts and Libraries
+# II. Python Concepts and Libraries
 
 1. Graphical User Interface (Tkinter):
 
-  ** Window Management: **
-  *   Tk() initializes the main window for login, signup, and comic management.
-  
-   Toplevel() creates additional windows like comic addition or notification displays.
+       Window Management:
+       Tk() initializes the main window for login, signup, and comic management.
+       Toplevel() creates additional windows like comic addition or notification displays.
 
 * Widgets and Layouts:
     Label, Entry, Button, and PhotoImage ensure interactivity and visual appeal.
