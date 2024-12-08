@@ -34,12 +34,12 @@ Excluded features are external database integrations and social interactions lik
        Functions such as go_to_signup() enable smooth navigation between sections.
 
        Dialog Boxes:
-        messagebox displays user alerts (e.g., success or error messages).
+       messagebox displays user alerts (e.g., success or error messages).
 
-        Custom Styling:
-        Fonts, colors, and center_window() ensure a consistent, user-focused experience.
+       Custom Styling:
+       Fonts, colors, and center_window() ensure a consistent, user-focused experience.
 
-Database Management (SQLite3):
+## 2. Database Management (SQLite3):
 
 Database Operations:
 sqlite3.connect() creates or connects to databases (user_data.db) for storing user, comic, and notification data.
