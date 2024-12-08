@@ -24,7 +24,7 @@ II. Python Concepts and Libraries
 
 1. Graphical User Interface (Tkinter):
 
-  * Window Management:
+  ** Window Management: **
   *   Tk() initializes the main window for login, signup, and comic management.
   
    Toplevel() creates additional windows like comic addition or notification displays.
