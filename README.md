@@ -39,9 +39,9 @@ Excluded features are external database integrations and social interactions lik
        Custom Styling:
        Fonts, colors, and center_window() ensure a consistent, user-focused experience.
 
-## 2. Database Management (SQLite3):
+2. Database Management (SQLite3):
 
-Database Operations:
+- **Database Operations:**
 sqlite3.connect() creates or connects to databases (user_data.db) for storing user, comic, and notification data.
 SQL Queries:
 Perform CRUD operations (Create, Read, Update, Delete) for efficient data management.
