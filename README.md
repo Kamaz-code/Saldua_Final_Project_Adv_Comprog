@@ -2,9 +2,9 @@
 
 I. A Brief Project Overview
 
-  EduManga Hub is an innovative platform designed to provide a centralized hub for comic enthusiasts and educators to interact with manga in a digital environment. Users can add, view, search, and manage their comics while maintaining personal profiles and receiving relevant notifications. The application also supports admin functionalities to ensure smooth operation and content moderation.
+  EduManga Hub is an innovative platform designed to provide a centralized hub for comic enthusiasts and educators to interact with commics in a digital environment. Users can add, view, search, and manage their comics while maintaining personal profiles and receiving relevant notifications. The application also supports admin functionalities to ensure smooth operation and content moderation.
 
-   The project's goal is to provide a seamless, engaging user experience, bridging entertainment and education through manga. It emphasizes accessibility, user-centric design, and efficient data management, aligning with global goals of quality education and reduced inequalities.
+   The project's goal is to provide a seamless, engaging user experience, bridging entertainment and education through comics. It emphasizes accessibility, user-centric design, and efficient data management, aligning with global goals of quality education and reduced inequalities.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -32,7 +32,7 @@ Input validation and exception handling are implemented to ensure robustness. Fo
 
 5. Custom Functions:
 
-Functions like center_window() ensure dynamic window placement, enhancing cross-device usability.
+Functions like center_window() ensure dynamic window placement.
 
 
 6. Notifications:
