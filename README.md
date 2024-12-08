@@ -16,6 +16,8 @@ Key features include:
 
 Excluded features are external database integrations and social interactions like reviews or comments. The project follows SMART objectives, aiming for deployment by Q4 2024, with measurable success tied to achieving at least 100 comic additions and searches.
 
+un `python app.py` to launch the application.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # II. Python Concepts and Libraries
