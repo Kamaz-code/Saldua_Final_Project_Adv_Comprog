@@ -16,30 +16,28 @@ Key features include:
 
 Excluded features are external database integrations and social interactions like reviews or comments. The project follows SMART objectives, aiming for deployment by Q4 2024, with measurable success tied to achieving at least 100 comic additions and searches.
 
-un `python app.py` to launch the application.
-
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # II. Python Concepts and Libraries
 
 1. Graphical User Interface (Tkinter):
 
-       Window Management:
-       'Tk()' initializes the main window for login, signup, and comic management.
-       Toplevel() creates additional windows like comic addition or notification displays.
+   Window Management:
+       `Tk()` initializes the main window for login, signup, and comic management.
+       `Toplevel()` creates additional windows like comic addition or notification displays.
    
-       Widgets and Layouts:
+   Widgets and Layouts:
        Label, Entry, Button, and PhotoImage ensure interactivity and visual appeal.
        Frames and grid layouts organize content for clarity.
    
-       Event Handling:
-       Functions such as go_to_signup() enable smooth navigation between sections.
+   Event Handling:
+       Functions such as `go_to_signup()` enable smooth navigation between sections.
 
-       Dialog Boxes:
+   Dialog Boxes:
        messagebox displays user alerts (e.g., success or error messages).
 
-       Custom Styling:
-       Fonts, colors, and center_window() ensure a consistent, user-focused experience.
+   Custom Styling:
+       Fonts, colors, and `center_window()` ensure a consistent, user-focused experience.
 
 2. Database Management (SQLite3):
 
