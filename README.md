@@ -6,15 +6,15 @@ I. Project Overview
 
 Key features include:
 
-User Management: Enables users to sign up, log in, and access personalized collections.
+    User Management: Enables users to sign up, log in, and access personalized collections.
 
-Comic Management: Supports adding, updating, and searching for comics, with user-specific and admin-added entries accessible.
+    Comic Management: Supports adding, updating, and searching for comics, with user-specific and admin-added entries accessible.
 
-Admin Tools: Allow recommendations and oversight of all user collections.
+    Admin Tools: Allow recommendations and oversight of all user collections.
 
-Notification System: Alerts users about admin actions, such as removed comics.
+    Notification System: Alerts users about admin actions, such as removed comics.
 
-Search Functionality: Simplifies comic retrieval by title.
+    Search Functionality: Simplifies comic retrieval by title.
 
 Excluded features are external database integrations and social interactions like reviews or comments. The project follows SMART objectives, aiming for deployment by Q4 2024, with measurable success tied to achieving at least 100 comic additions and searches.
 
