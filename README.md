@@ -49,15 +49,15 @@ Excluded features are external database integrations and social interactions lik
 
     - **Database Operations:**
    
-    `sqlite3.connect()` creates or connects to databases (user_data.db) for storing user, comic, and notification data.
+        `sqlite3.connect()` creates or connects to databases (user_data.db) for storing user, comic, and notification data.
 
     - **SQL Queries:**
    
-    Perform CRUD operations (Create, Read, Update, Delete) for efficient data management.
+        Perform CRUD operations (Create, Read, Update, Delete) for efficient data management.
 
     - **Admin Functions:**
    
-    Allow actions like deleting comics and managing users, ensuring centralized oversight.
+        Allow actions like deleting comics and managing users, ensuring centralized oversight.
 
 ---
 
