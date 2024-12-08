@@ -44,7 +44,7 @@ Perform CRUD operations (Create, Read, Update, Delete) for efficient data manage
 Admin Functions:
 Allow actions like deleting comics and managing users, ensuring centralized oversight.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 III. Details of the Chosen SDG and Its Integration
 
@@ -53,7 +53,7 @@ Sustainable Development Goal (SDG) 4: Quality Education
 
   EduManga Hub aligns with SDG 4: Quality Education by leveraging the universal appeal of comics to promote literacy, creativity, and educational engagement. The platform provides an accessible space for users to explore stories that can inspire learning, while its admin features ensure the quality and relevance of content.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 IV. Instructions for Running the Program
 
@@ -65,7 +65,7 @@ Install the required libraries using the following command:
 pip install tk sqlite3
 
 
---- Prepare the following resources ---
+--- Prepare the following resources 
 
 A valid SQLite database file (user_data.db).
 An application logo image (smol_ina.png).
