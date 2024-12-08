@@ -22,17 +22,14 @@ Excluded features are external database integrations and social interactions lik
 
 1. Graphical User Interface (Tkinter):
 
-       Window Management:
+       * Window Management:
        Tk() initializes the main window for login, signup, and comic management.
        Toplevel() creates additional windows like comic addition or notification displays.
-
-* Widgets and Layouts:
-    Label, Entry, Button, and PhotoImage ensure interactivity and visual appeal.
-  
-Frames and grid layouts organize content for clarity.
-
-Event Handling:
-Functions such as go_to_signup() enable smooth navigation between sections.
+       * Widgets and Layouts:
+       Label, Entry, Button, and PhotoImage ensure interactivity and visual appeal.
+       Frames and grid layouts organize content for clarity.
+       * Event Handling:
+       Functions such as go_to_signup() enable smooth navigation between sections.
 
 Dialog Boxes:
 messagebox displays user alerts (e.g., success or error messages).
