@@ -72,12 +72,13 @@ Excluded features are external database integrations and social interactions lik
 
 # IV. Instructions for Running the Program
 
-**Prerequisites**
+- **Prerequisites**
 
-Ensure Python 3.7+ is installed on your system.
+  Ensure Python 3.7+ is installed on your system.
 
-Install the required libraries using the following command:
-pip install tk sqlite3
+- **Install the required libraries using the following command:**
+  
+  pip install tk sqlite3
 
 
 **Prepare the following resources** 
