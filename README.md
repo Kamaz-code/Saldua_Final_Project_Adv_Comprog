@@ -4,15 +4,15 @@
 
 Key features include:
 
-  - User Management: Enables users to sign up, log in, and access personalized collections.
+  - **User Management:** Enables users to sign up, log in, and access personalized collections.
     
-  - Comic Management: Supports adding, updating, and searching for comics, with user-specific and admin-added entries accessible.
+  - **Comic Management:** Supports adding, updating, and searching for comics, with user-specific and admin-added entries accessible.
     
-  - Admin Tools: Allow recommendations and oversight of all user collections.
+  - **Admin Tools:** Allow recommendations and oversight of all user collections.
     
-  - Notification System: Alerts users about admin actions, such as removed comics.
+  - **Notification System:** Alerts users about admin actions, such as removed comics.
     
-  - Search Functionality: Simplifies comic retrieval by title.
+  - **Search Functionality:** Simplifies comic retrieval by title.
 
 Excluded features are external database integrations and social interactions like reviews or comments. The project follows SMART objectives, aiming for deployment by Q4 2024, with measurable success tied to achieving at least 100 comic additions and searches.
 
@@ -66,7 +66,7 @@ Excluded features are external database integrations and social interactions lik
 **Sustainable Development Goal (SDG) 4: Quality Education**
 
 
-  EduManga Hub aligns with `SDG 4: Quality Education` by leveraging the universal appeal of comics to promote literacy, creativity, and educational engagement. The platform provides an accessible space for users to explore stories that can inspire learning, while its admin features ensure the quality and relevance of content.
+  EduManga Hub aligns with **SDG 4: Quality Education** by leveraging the universal appeal of comics to promote literacy, creativity, and educational engagement. The platform provides an accessible space for users to explore stories that can inspire learning, while its admin features ensure the quality and relevance of content.
 
 ---
 
@@ -84,7 +84,7 @@ Excluded features are external database integrations and social interactions lik
 
 - **Prepare the following resources** 
 
-  A valid SQLite database file `user_data.db`.
+  A valid SQLite database file `user_data.db` or you can just not download the SQLite database file because it will create on its own after running.
 
   An application logo image `smol_ina.png`.
 
@@ -93,7 +93,7 @@ Excluded features are external database integrations and social interactions lik
 
   Place the project files and resources in the same directory.
   
-  Run the script using the Python interpreter
+  Run the script using the Python interpreter using VSCode with proper extensions.
 
 
 - **Upon launch**
