@@ -37,7 +37,7 @@ Excluded features are external database integrations and social interactions lik
 
    - **Dialog Boxes:**
    
-       messagebox displays user alerts (e.g., success or error messages).
+       `messagebox` displays user alerts (e.g., success or error messages).
 
    - **Custom Styling:**
    
